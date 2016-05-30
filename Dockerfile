@@ -11,7 +11,8 @@ RUN apt-get update && \
     cmake \
     git \
     wget \
-    unzip \
+    unzip\
+    libgtk2.0-dev \
     pkg-config \
     libswscale-dev \
     python3-dev \
